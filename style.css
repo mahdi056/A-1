@@ -106,4 +106,40 @@
 
  /* end of section inspiration  */
 
- 
+ .target{
+    margin-top: 100px;
+ }
+
+ .my-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .properties{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+ }
+
+
+ .html{
+    width: 364px;
+   background-color: rgb(250, 234, 237);
+ }
+
+.css{
+    width: 364px;
+    margin: 0px 20px;
+    background-color: rgb(224, 253, 253);
+}
+
+.javascript{
+    width: 364px;
+    background-color: rgb(250, 234, 237);
+}
+
+/* End of section target as well as main */
+
