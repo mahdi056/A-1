@@ -1,8 +1,13 @@
+
+
+body{
+    font-family: 'Azeret Mono', monospace;
+}
+
 .banner {
     display: flex;
     background-image: url(/assets/Hero-bg.png);
     height: 652px;
-    
     margin-top: 131px;
     align-items: center;
     justify-content: center;
@@ -101,6 +106,7 @@
  .video{
     display: flex;
     justify-content: center;
+    margin-top: 60px;
     
  }
 
@@ -143,3 +149,39 @@
 
 /* End of section target as well as main */
 
+.support{
+    
+    margin: 100px 200px;
+    height: 250px;
+    background-image: url(assets/handshake.jpg);
+    border-radius: 8px;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+}
+   
+.sp-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.search{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inp{
+    height: 30px;
+    width: 400px;
+    border-radius: 6px;
+    margin: 10px;
+}
+
+.search button{
+    height: 35px;
+}
+
+/* Final main section done  */
