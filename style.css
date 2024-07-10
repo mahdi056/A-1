@@ -85,3 +85,25 @@
 
  /* End of section why web  */
 
+ .inspiration{
+    margin-top: 150px;
+    
+
+ }
+
+ .my{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+ }
+ .video{
+    display: flex;
+    justify-content: center;
+    
+ }
+
+ /* end of section inspiration  */
+
+ 
