@@ -38,6 +38,8 @@
     display: flex;    
     margin-top: 70px;
     justify-content: space-around;
+    width: fixed 946px;
+    
 }
 
 .c1 button{
@@ -47,3 +49,39 @@
     height: 30px;
     border: 0.5px solid black;
 }
+
+.content-2{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 180px;
+    width: Fixed 946px;
+}
+.c2 button{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 30px;
+    border: 0.5px solid black;
+}
+.c2{
+    margin-left: 20px;
+}
+
+.content-3{
+    display: flex;    
+    margin-top: 80px;
+    justify-content: space-around;
+    width: fixed 946px;
+    
+}
+
+.c3 button{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 30px;
+    border: 0.5px solid black;
+}
+
+ /* End of section why web  */
+
