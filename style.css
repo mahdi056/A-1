@@ -11,12 +11,13 @@ body{
     margin-top: 131px;
     align-items: center;
     justify-content: center;
+    background-size: cover;
+    background-position: center;
 }
 
 .banner-content {
     width: fixed 998px;
     height: Hug 582px;
-    /* border: 2px solid; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -155,7 +156,7 @@ body{
     height: 250px;
     background-image: url(assets/handshake.jpg);
     border-radius: 8px;
-    align-items: center;
+    
     background-size: cover;
     background-position: center;
 }
@@ -185,3 +186,8 @@ body{
 }
 
 /* Final main section done  */
+.last {
+    display: flex;
+    justify-content: space-around;
+}
+
